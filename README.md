@@ -2,13 +2,8 @@
 
 Я Python-разработчик.
 
----
+Python, FasrAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, Docker, Celery, Redis
 
-## Мой стек технологий
-
-**Python, FasrAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, Docker, Celery, Redis
-
----
 
 ## О себе
 
