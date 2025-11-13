@@ -14,4 +14,4 @@
 ## Связаться со мной
 
 - Email: **samoylowfgg@gmail.com**
-- Telegram: **@samoylowfgg@gmail.com**
+- Telegram: **@samoylov_gennadiy**
