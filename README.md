@@ -1,8 +1,8 @@
-# Привет! Я Самойлов Геннадий 👋
+# Привет! Меня зовут Гена :)
 
 Я Python-разработчик.
 
-Python, FasrAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, Docker, Celery, Redis
+Мой стек: Python, FasrAPI, Pydantic, SQLAlchemy, Alembic, PostgreSQL, Docker, Celery, Redis
 
 
 ## О себе
